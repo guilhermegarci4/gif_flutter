@@ -1,6 +1,10 @@
 # giphy_flutter
 
-A new Flutter project.
+Aplicativo para de estudo do curso 'Criação de Apps Android e iOS com Flutter - Crie 16 Apps'.
+
+Aplicativo com a ideia de puxar os GIFs por API da página 'GIPHY' e poder compartilhar pela função do celular.
+
+Desenvolvido em: Flutter
 
 ## Getting Started
 
